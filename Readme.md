@@ -1,7 +1,4 @@
 #Git Course
 
-testando 123 testando pra ensinar como git funciona
+testando para aprender como git funciona
 
-assim ta difici
-
-uououozezezeuo
